@@ -4,10 +4,7 @@ import img from './imgs/head.jpg'
 function Header() {
     return (
         <header>
-	            <img 
-	                src={img} 
-	                alt="Problem?"
-	            />
+	            <h1 className="tag">{`<NB/>`}</h1>
 	            <p>Meme <br /> Generator</p>
         </header>
     )
