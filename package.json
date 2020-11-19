@@ -1,6 +1,6 @@
 {
-  "name": "Meme-Genrator",
-  "homepage": "https://naftalib.github.io/Meme-Genrator",
+  "name": "Meme-Generator",
+  "homepage": "https://naftalib.github.io/Meme-Generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
