@@ -1,5 +1,4 @@
 import React from "react"
-import img from './imgs/head.jpg'
 
 function Header() {
     return (
