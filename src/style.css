@@ -10,7 +10,7 @@ body {
 
 .memeContainer{
     max-width: 500px;
-    margin-top: 10px ;
+    margin: 0 auto ;
     padding: 0;
 }
 
